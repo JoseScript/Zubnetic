@@ -13,7 +13,6 @@ An open-source stereo visualizer VST3 plugin with multi-shape rendering and freq
 - **Customizable effects**: Adjustable glow, saturation, color inversion
 - **Real-time controls**: Gain, zoom, rotation, persistence, thickness, and more
 - **Resizable window**: Currently fluid resolution
-- **Resizable window**: Currently fluid resolution 
 
 ## Download
 
