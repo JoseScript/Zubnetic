@@ -1,5 +1,13 @@
 # Zubnetic
 
+# Zubnetic
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/ZubWu)
+[![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg?style=for-the-badge)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/JoseScript/Zubnetic?style=for-the-badge)](https://github.com/JoseScript/Zubnetic/releases)
+
+An open-source stereo visualizer VST3 plugin with multi-shape rendering and frequency-reactive colors.
+
 An open-source stereo visualizer VST3 plugin with multi-shape rendering and frequency-reactive colors.
 
 <img width="454" height="389" alt="zubnetic a 1" src="https://github.com/user-attachments/assets/44748d67-b52f-4956-9405-160812cd562c" />
