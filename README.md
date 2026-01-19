@@ -6,8 +6,6 @@
 
 An open-source stereo visualizer VST3 plugin with multi-shape rendering and frequency-reactive colors.
 
-An open-source stereo visualizer VST3 plugin with multi-shape rendering and frequency-reactive colors.
-
 <img width="454" height="389" alt="zubnetic a 1" src="https://github.com/user-attachments/assets/44748d67-b52f-4956-9405-160812cd562c" />
 
 ## Features
