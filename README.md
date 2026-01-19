@@ -1,8 +1,6 @@
 # Zubnetic
 
-# Zubnetic
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/ZubWu)
+[![Buy Me A Coffee Or A Bag Of Weed](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/ZubWu)
 [![License](https://img.shields.io/badge/License-GPL%20v3-blue.svg?style=for-the-badge)](LICENSE)
 [![Release](https://img.shields.io/github/v/release/JoseScript/Zubnetic?style=for-the-badge)](https://github.com/JoseScript/Zubnetic/releases)
 
