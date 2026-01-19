@@ -43,7 +43,7 @@ GPL-3.0 - See LICENSE file for details
 
 ## Support
 
-If you find this useful, consider [buying me a coffee](YOUR_DONATION_LINK)!
+If you find this useful, consider [buying me a coffee or a bag of weed](https://buymeacoffee.com/zubwu)!
 
 ## Contributing
 
