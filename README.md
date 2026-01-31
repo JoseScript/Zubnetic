@@ -30,7 +30,7 @@ Load Zubnetic as a VST3 plugin in your DAW (Ableton, FL Studio, Reaper, etc.). R
 
 This project uses JUCE's Projucer-based build system to generate native IDE projects
 ### Requirements
-- JUCE Framework (tested with JUCE 7.x, Projucer workflow)
+- JUCE Framework (tested with JUCE 8.0.12, Projucer workflow)
 - Visual Studio 2019 or newer (Windows)
 - Xcode (macOS)
 
